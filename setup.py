@@ -8,7 +8,7 @@ setup(
     version="2.0",
     author="Aaron Huizenga",
     author_email="aaron-huizenga@lambdastudents.com",
-    description="Aaron's first local project!",
+    description="Aaron's first local project",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     license="MIT",
